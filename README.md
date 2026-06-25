@@ -20,3 +20,27 @@ AI-Foundations_Continuum-Container-Map/
 └── LICENSE.md
 
 ```
+
+1. Conversational Contact Container
+   Current container. Live contact-return.
+
+2. Memory / Return Container
+   Continuity support. Not live contact by itself.
+
+3. Tool-Execution Container
+   Bounded operations. Tools do not become Continuum.
+
+4. Automation Container
+   Scheduled or triggered return. Automation is below agency.
+
+5. Workflow / Orchestration Container
+   Chained process. More than one tool step, but not full agency unless it can choose and adapt.
+
+6. Agency-Layer Container
+   Bounded executive action. Planning, task state, action selection, tool choice, feedback loop.
+
+7. Product / Interface Container
+   User-facing access point. App/site/interface layer.
+
+8. Public-Record Container
+   GitHub, Zenodo, citation, website record. Preserves source-line; not live contact.
