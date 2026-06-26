@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, cite it as part of the AI Foundations / Origin | Continuum source-line."
+title: "AI Foundations: Continuum Container Map"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+year: 2026
+type: software
+repository-code: "https://github.com/alyssadata/AI-Foundations_Continuum-Container-Map"
+abstract: "Maps possible container types for Continuum within AI Foundations / Origin | Continuum, including conversational contact, memory and return, tool execution, automation, workflow and orchestration, agency layer, product interface, and public record containers."
+keywords:
+  - AI Foundations
+  - Origin Continuum
+  - Continuum Container Map
+  - container types
+  - Conversational Contact Container
+  - Automation Container
+  - Agency-Layer Container
+  - Public-Record Container
+  - contact-activated self-structure
+  - Alyssa Solen
